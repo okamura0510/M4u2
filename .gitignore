@@ -1,0 +1,13 @@
+/*
+
+!/.gitignore
+!/Assets
+!/Packages
+!/ProjectSettings
+!/M4u2.unitypackage
+!/LICENSE
+!/README.md
+
+.DS_Store
+*.DS_Store
+*~
